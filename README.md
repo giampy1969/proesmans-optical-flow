@@ -1,6 +1,7 @@
 # proesmans-optical-flow
 Optical flow using the Proesmans method
 
+[![View proesmans-optical-flow on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://www.mathworks.com/matlabcentral/fileexchange/40576-proesmans-optical-flow)
 
 Optical flow calculation using the gradient-based method devised by Marc Proesmans.
 Look at the beginning of the cpp file for instructions on how to compile and call the proesmans function from MATLAB&reg;.
