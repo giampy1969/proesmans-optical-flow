@@ -3,7 +3,7 @@ Optical flow using the Proesmans method
 
 
 Optical flow calculation using the gradient-based method devised by Marc Proesmans.
-Look at the beginning of the cpp file for instructions on how to compile and call the proesmans function from MATLAB.
+Look at the beginning of the cpp file for instructions on how to compile and call the proesmans function from MATLAB&reg;.
 
 The algorithm is described and used in a couple of journal papers, look in the cpp file to find out more.
 
